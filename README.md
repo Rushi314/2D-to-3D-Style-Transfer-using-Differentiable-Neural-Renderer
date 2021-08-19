@@ -2,9 +2,9 @@
 
 This repository contains implementation of the Final Project of COMPSCI 674 course at UMass Amherst. <br>
 Contributors: <br>
-Abhishek Lalwani (alalwani@umass.edu) <br>
-Himanshu Gupta (hgupta@umass.edu) <br>
 Rushikesh Dudhat (rdudhat@umass.edu) <br>
+Himanshu Gupta (hgupta@umass.edu) <br>
+Abhishek Lalwani (alalwani@umass.edu) <br>
 
 # Contribution Split
 
