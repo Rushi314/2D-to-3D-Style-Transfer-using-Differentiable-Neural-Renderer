@@ -1,4 +1,4 @@
-# Gradient-based 3D mesh style transfer using 2D supervision
+# 2D to 3D Style Transfer using Differentiable Neural Renderer
 
 This repository contains implementation of the Final Project of COMPSCI 674 course at UMass Amherst. <br>
 Contributors: <br>
